@@ -1,4 +1,4 @@
 # DSP-LAB
-Digital Signal Processing Lab - Experiments
+## Digital Signal Processing Lab - Experiments
 ##### SALMANUL FARIS PV 
 ##### B22ECB60 T5B
